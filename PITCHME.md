@@ -34,6 +34,7 @@
 
 +++?image=assets/images/semey_week.png&size=auto 80%
 +++?image=assets/images/semey_day.png&size=auto 80%
++++?image=assets/images/cards.png&size=auto 40%
 
 ---
 
@@ -69,6 +70,13 @@
 +++?image=assets/images/allpay_product3.png&size=auto 50%
 +++?image=assets/images/allpay_product4.png&size=auto 80%
 +++?image=assets/images/allpay_product5.png&size=auto 30%
+
+---
+
+## Переезд Innopay
+
+- Переезд кошельков в Innopay
+- Пока только Avtobys
 
 ---
 
