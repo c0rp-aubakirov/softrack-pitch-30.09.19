@@ -1,1 +1,1 @@
-https://gitpitch.com/c0rp-aubakirov/softrack-pitch-14.06.19/master
+https://gitpitch.com/c0rp-aubakirov/softrack-pitch-30.09.19/master
