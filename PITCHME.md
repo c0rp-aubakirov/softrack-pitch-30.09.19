@@ -77,8 +77,10 @@
 - Переезд на SSD
 - Начало Kubernetes
 
-+++?image=assets/images/before_ssd.jpg&size=auto 80%
-+++?image=assets/images/after_ssd.jpg&size=auto 80%
++++?image=assets/images/before_ssd.jpg&size=auto 50%
++++?image=assets/images/after_ssd.jpg&size=auto 50%
+
+---
 
 ## Планы
 
