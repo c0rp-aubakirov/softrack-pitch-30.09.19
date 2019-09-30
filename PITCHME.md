@@ -54,7 +54,7 @@
 - 15тыс. моб. приложение 
 
 +++?image=assets/images/reg1.png&size=auto 80%
-+++?image=assets/images/reg2..png&size=auto 80%
++++?image=assets/images/reg2.png&size=auto 80%
 
 ---
 
@@ -62,3 +62,6 @@
 
 - Переезд на SSD
 - Начало Kubernetes
+
++++?image=assets/images/before_ssd.png&size=auto 80%
++++?image=assets/images/after_ssd.png&size=auto 80%
