@@ -29,7 +29,7 @@
 
 - 1 Маршрут, 7 автобусов
 - 1-го ноября 
-- , 318 автоубсов
+- 318 автобусов
 
 +++?image=assets/images/semey_week.png&size=auto 80%
 +++?image=assets/images/semey_day.png&size=auto 80%
@@ -61,11 +61,13 @@
 
 +++?image=assets/images/reg1.png&size=auto 80%
 +++?image=assets/images/reg2.png&size=auto 80%
++++?image=assets/images/stat1.png&size=auto 80%
++++?image=assets/images/stat2.png&size=auto 80%
 +++?image=assets/images/allpay_product1.png&size=auto 50%
 +++?image=assets/images/allpay_product2.png&size=auto 80%
 +++?image=assets/images/allpay_product3.png&size=auto 50%
 +++?image=assets/images/allpay_product4.png&size=auto 80%
-+++?image=assets/images/allpay_product5.png&size=auto 50%
++++?image=assets/images/allpay_product5.png&size=auto 30%
 
 ---
 
@@ -76,3 +78,11 @@
 
 +++?image=assets/images/before_ssd.jpg&size=auto 80%
 +++?image=assets/images/after_ssd.jpg&size=auto 80%
+
+## Планы
+
+- ЕРЦ
+- Разделение автобуса на сервисы
+- Инфраструктура для терминалов
+- Производство карт
+- Окончательный заезд в Innopay
