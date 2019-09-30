@@ -19,6 +19,7 @@
 - Объединение проектов
 - Диф. тариф
 - Внедрение наших терминалов
+- Безнал до 28%
 
 +++?image=assets/images/avtobys_day.png&size=auto 80%
 
@@ -26,16 +27,38 @@
 
 ## Семей
 
-- Снятие на карту VISA любого банка
+- 1 Маршрут, 7 автобусов
+- 1-го ноября 
+- , 318 автоубсов
 
-+++?image=assets/images/visa.png&size=auto 80%
++++?image=assets/images/semey_week.png&size=auto 80%
++++?image=assets/images/semey_day.png&size=auto 80%
+
+---
+
+## Avtobys
+
+- 472 автобуса
+- 942/412 терминалов
+- 100,092 пассажиров
+- 9,266,277 билетов
+
++++?image=assets/images/avtobys_2week.png&size=auto 80%
+
+---
+
+## Allpay
+
+- 145тыс. кошельков
+- 44тыс. один платеж
+- 15тыс. моб. приложение 
+
++++?image=assets/images/reg1.png&size=auto 80%
++++?image=assets/images/reg2..png&size=auto 80%
 
 ---
 
 ## Инфраструктура
 
-- gmail.com
-- Переезд в ps.kz
-- Серверы
-- Софт
-- openstack
+- Переезд на SSD
+- Начало Kubernetes
