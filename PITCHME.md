@@ -46,10 +46,10 @@
 +++?image=assets/images/avtobys_2week.png&size=auto 80%
 +++?image=assets/images/avtobys_product1.png&size=auto 80%
 +++?image=assets/images/avtobys_product2.png&size=auto 80%
-+++?image=assets/images/avtobys_product3.png&size=auto 80%
++++?image=assets/images/avtobys_product3.png&size=auto 50%
 +++?image=assets/images/avtobys_product4.png&size=auto 80%
 +++?image=assets/images/avtobys_product5.png&size=auto 80%
-+++?image=assets/images/avtobys_product6.png&size=auto 80%
++++?image=assets/images/avtobys_product6.png&size=auto 50%
 
 ---
 
