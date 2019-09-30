@@ -61,7 +61,7 @@
 
 +++?image=assets/images/reg1.png&size=auto 80%
 +++?image=assets/images/reg2.png&size=auto 80%
-+++?image=assets/images/allpay_product1.png&size=auto 80%
++++?image=assets/images/allpay_product1.png&size=auto 50%
 +++?image=assets/images/allpay_product2.png&size=auto 80%
 +++?image=assets/images/allpay_product3.png&size=auto 50%
 +++?image=assets/images/allpay_product4.png&size=auto 80%
